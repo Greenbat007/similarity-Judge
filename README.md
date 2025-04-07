@@ -1,2 +1,2 @@
-# similarity-Judge
-A python program to judge a folder of images to a ground truth(refrence images) and scores them. Displays the images and displays a leader board on a streamlit page with their score
+# Automatic Judge/Scoring system
+A python program that takes a folder of images and ranks them based on their similarity to a refrence image. Has a streamlit page that creates a leaderboard
